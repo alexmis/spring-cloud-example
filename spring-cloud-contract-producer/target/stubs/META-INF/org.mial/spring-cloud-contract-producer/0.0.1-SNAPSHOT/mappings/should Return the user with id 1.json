@@ -1,0 +1,21 @@
+{
+  "id" : "e638f143-37a1-4ba2-9337-b673ea2e5220",
+  "request" : {
+    "url" : "/v1/user/222",
+    "method" : "GET",
+    "headers" : {
+      "Content-Type" : {
+        "equalTo" : "application/json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"firstName\":\"First Name\",\"lastName\":\"Last Name\",\"id\":\"1\",\"email\":\"Email\"}",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "e638f143-37a1-4ba2-9337-b673ea2e5220"
+}

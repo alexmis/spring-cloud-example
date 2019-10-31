@@ -1,0 +1,17 @@
+name: "should Create the user with id 1"
+request:
+  method: POST
+  url: /v1/user/
+  body:
+    id: "1"
+    firstName: "First Name"
+    lastName: "Last Name"
+    email: "Email"
+  headers:
+    Content-Type: application/json
+response:
+  status: 200
+  body:
+    "1"
+  headers:
+    Content-Type: application/json

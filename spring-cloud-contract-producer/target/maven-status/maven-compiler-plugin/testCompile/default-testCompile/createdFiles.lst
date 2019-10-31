@@ -1,0 +1,12 @@
+org/mial/it/spring/UserRestControllerMockMvcTest.class
+org/mial/it/contract/UserRestControllerApiBase.class
+org/mial/it/spring/UserRestControllerIntegrationTest.class
+org/mial/it/spring/UserRestControllerMockMvcWithMockBeanTest.class
+org/mial/it/spring/UserRestControllerWebMvcTest.class
+org/mial/it/spring/UserRestControllerWebMvcWithMockBeanTest.class
+org/mial/it/contract/ContractVerifierTest.class
+org/mial/it/spring/UserRestControllerWebMvcTest$PlaceholderApiConfig.class
+org/mial/it/spring/UserRestControllerIntegrationTestWithMockBeanTest.class
+org/mial/it/spring/UserRestControllerWebMvcWithMockBeanTest$PlaceholderApiConfig.class
+org/mial/DemoApplicationTests.class
+org/mial/it/assured/UserRestControllerAssuredIntegrationTest.class

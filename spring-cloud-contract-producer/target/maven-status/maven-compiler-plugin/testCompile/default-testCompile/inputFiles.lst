@@ -1,0 +1,10 @@
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/test/java/org/mial/it/spring/UserRestControllerIntegrationTest.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/test/java/org/mial/DemoApplicationTests.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/test/java/org/mial/it/spring/UserRestControllerMockMvcTest.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/test/java/org/mial/it/contract/UserRestControllerApiBase.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/test/java/org/mial/it/spring/UserRestControllerMockMvcWithMockBeanTest.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/target/generated-test-sources/contracts/org/mial/it/contract/ContractVerifierTest.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/test/java/org/mial/it/assured/UserRestControllerAssuredIntegrationTest.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/test/java/org/mial/it/spring/UserRestControllerIntegrationTestWithMockBeanTest.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/test/java/org/mial/it/spring/UserRestControllerWebMvcWithMockBeanTest.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/test/java/org/mial/it/spring/UserRestControllerWebMvcTest.java

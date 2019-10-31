@@ -1,0 +1,13 @@
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/service/mapper/UserMapper.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/dto/UserDTO.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/config/DataInitConfig.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/service/UserService.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/repository/UserRepository.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/config/WebAppArgumentResolverConfig.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/service/impl/UserServiceImpl.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/rest/UserRestController.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/repository/impl/UserRepositoryImpl.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/DemoApplication.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/config/WebAppConfig.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/model/User.java
+/Users/mial/projects/spring-sandbox/spring-testing/spring-cloud-contract-producer/src/main/java/org/mial/exception/UserNotFoundException.java

@@ -1,0 +1,17 @@
+Spring Cloud Contract is a project that, simply put, helps us write Consumer-Driven Contracts (CDC)
+
+
+
+
+mvn integration-test -P integration
+
+simple customer crud
+
+spring integration test
+spring contract
+spring path
+REST-Assured
+Karate
+cucumber
+
+https://gorillalogic.com/blog/karate-vs-rest-assured-comparing-powerful-api-testing-frameworks/

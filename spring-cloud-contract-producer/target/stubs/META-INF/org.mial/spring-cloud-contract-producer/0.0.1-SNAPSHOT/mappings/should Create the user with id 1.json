@@ -1,0 +1,30 @@
+{
+  "id" : "23d89579-5dda-4d68-b889-50a34adab756",
+  "request" : {
+    "url" : "/v1/user/",
+    "method" : "POST",
+    "headers" : {
+      "Content-Type" : {
+        "equalTo" : "application/json"
+      }
+    },
+    "bodyPatterns" : [ {
+      "matchesJsonPath" : "$[?(@.['id'] == '1')]"
+    }, {
+      "matchesJsonPath" : "$[?(@.['firstName'] == 'First Name')]"
+    }, {
+      "matchesJsonPath" : "$[?(@.['lastName'] == 'Last Name')]"
+    }, {
+      "matchesJsonPath" : "$[?(@.['email'] == 'Email')]"
+    } ]
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "1",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "23d89579-5dda-4d68-b889-50a34adab756"
+}

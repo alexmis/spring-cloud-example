@@ -1,0 +1,45 @@
+######################################################### USER CRUD Example ############################################
+## Get all users
+GET {{base}}/v1/user/
+
+###
+
+## Get all users paged
+GET {{base}}/v1/user/page?size=3&page=1&sort=field,asc&sort=field2,desc
+
+###
+
+## Create user
+POST {{base}}/v1/user/
+Content-Type: application/json
+
+{
+    "firstName": "First",
+    "lastName": "Last",
+    "email": "email@email.com"
+}
+
+###
+
+## Update user
+POST {{base}}/v1/user/
+Content-Type: application/json
+
+{
+    "id": 31,
+    "firstName": "First (updated)",
+    "lastName": "Last (updated)",
+    "email": "email@email.com (updated)"
+}
+
+###
+
+## Get user by id
+GET {{base}}/v1/user/31
+
+###
+
+## Delete user by id
+DELETE {{base}}/v1/user/1
+
+###

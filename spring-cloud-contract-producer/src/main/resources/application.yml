@@ -1,0 +1,16 @@
+server:
+  port: 8085
+
+spring:
+  profiles:
+    active: dev
+
+---
+
+spring:
+  profiles: dev
+
+app:
+  generate:
+    users: 30
+

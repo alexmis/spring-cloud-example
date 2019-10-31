@@ -1,0 +1,15 @@
+name: "should Return the user with id 1"
+request:
+  method: GET
+  url: /v1/user/222
+  headers:
+    Content-Type: application/json
+response:
+  status: 200
+  body:
+    id: "1"
+    firstName: "First Name"
+    lastName: "Last Name"
+    email: "Email"
+  headers:
+    Content-Type: application/json
